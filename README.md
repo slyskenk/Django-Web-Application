@@ -3,3 +3,5 @@
 pip install pipenv
 2.Install Django
 pipenv install django
+
+To start pipenv shell
